@@ -1,0 +1,35 @@
+.container {
+    background: #6C7A89;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    background: #fff;
+}
+
+.inputGroup {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#quadrado {
+    width: 200px;
+    height: 200px;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#RGB {
+    margin: 0;
+    transform: translate(18%)
+}
